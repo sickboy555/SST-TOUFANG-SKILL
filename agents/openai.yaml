@@ -1,0 +1,4 @@
+interface:
+  display_name: "SST-TOUFANG-SKILL"
+  short_description: "Diagnose media buying, ROI, creatives, pacing, and platform algorithm issues"
+  default_prompt: "Use $SST-TOUFANG-SKILL to analyze a media buying problem, identify the main cause, and recommend prioritized next steps."

@@ -1,4 +1,4 @@
-# chaozhou-pizi-cai-media-buying
+# SST-TOUFANG-SKILL
 
 一个面向广告投放、买量、ROI、素材、媒体算法和投放团队管理场景的中文 Skill。
 
@@ -41,13 +41,13 @@
 如果你在 Codex 或兼容 Skill 目录结构的环境里使用，可以把这个仓库直接放到本地 Skill 目录下，例如：
 
 ```text
-~/.codex/skills/chaozhou-pizi-cai-media-buying
+~/.codex/skills/SST-TOUFANG-SKILL
 ```
 
 也可以直接克隆：
 
 ```bash
-git clone https://github.com/sickboy555/-skill.git chaozhou-pizi-cai-media-buying
+git clone https://github.com/sickboy555/-skill.git SST-TOUFANG-SKILL
 ```
 
 然后确保目录里保留 `SKILL.md`、`references/`、`evals/` 这几个部分即可。
@@ -55,6 +55,7 @@ git clone https://github.com/sickboy555/-skill.git chaozhou-pizi-cai-media-buyin
 ## 使用建议
 
 - 当用户的问题本质是投放、买量、流量、媒体算法、素材、回收、团队管理时，优先启用这个 Skill。
+- 显式唤醒时，优先使用 `$SST-TOUFANG-SKILL`。
 - 回答时不要只给动作，要先判断问题属于哪一层，再给优先排查项和不建议动作。
 - 风格上偏直接、清楚、有判断，但不故作夸张。
 
